@@ -1,0 +1,13 @@
+name = "Terminal"
+
+
+git = https://github.com/NtinosTheGamer2324/pak-core.flexos.git
+C? = true
+C++ = false
+
+flex-pak = true
+linux-pak = false
+win-pak = false
+
+iscore = true
+supportX96 = true
