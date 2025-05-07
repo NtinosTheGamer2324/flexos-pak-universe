@@ -1,7 +1,7 @@
 name = "flex os DM"
 
 
-git = https://github.com/NtinosTheGamer2324/pak-core.flexos.git
+git = "github.com/NtinosTheGamer2324/core.fsDM.git"
 C? = true
 C++ = false
 
