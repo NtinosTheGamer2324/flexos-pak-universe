@@ -1,3 +1,6 @@
+name = "flex os core"
+
+
 git = https://github.com/NtinosTheGamer2324/pak-core.flexos.git
 C? = true
 C++ = false
